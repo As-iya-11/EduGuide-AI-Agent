@@ -1,19 +1,33 @@
-# EduGuide-AI-Agent
-AI- powered learning assistant built with Microsoft Foundry
+# 🎓 EduGuide AI Agent
+### Your Personal AI-Powered Learning Assistant
 
-## What it does
-An AI-powered learning assistant built with Microsoft Foundry that helps students find learning resources instantly.
+## 🚀 Live Demo
+👉 [Try EduGuide here](https://huggingface.co/spaces/Asiya0611/EduGuide-AI-Agent)
 
-## Technologies Used
-- Microsoft Foundry
-- Foundry IQ
-- GPT-4.1-mini model
-- Web Search Tool
+## 📌 What it does
+EduGuide is an intelligent learning assistant that helps 
+students by:
+- Answering questions on any topic
+- Providing step-by-step learning paths
+- Suggesting free curated resources
+- Supporting subjects like Python, ML, AI, Data Science
 
-## How to use
-1. Ask any learning question
-2. Agent searches web and provides answer
-3. Get curated learning resources
+## 🛠️ Technologies Used
+- Python
+- Gradio (UI Framework)
+- Hugging Face Spaces (Hosting)
+- Natural Language Processing
 
-## Architecture
-Microsoft Foundry → GPT-4.1-mini → Web Search Tool → Student
+## 🏆 Hackathon
+Built for Microsoft Agents League Hackathon 2026
+Challenge Track: Reasoning Agents
+
+## 👩‍💻 How to Run
+1. Clone this repo
+2. Install requirements: pip install gradio
+3. Run: python app.py
+
+## 📊 Architecture
+Student Question → EduGuide Agent → 
+NLP Processing → Knowledge Base → 
+Curated Response + Resources
